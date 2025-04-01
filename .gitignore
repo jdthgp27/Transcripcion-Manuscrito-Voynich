@@ -6,3 +6,25 @@ venv/
 .DS_Store
 .env
 *.csv
+NTUSER.*
+ntuser.*
+*.regtrans-ms
+*.blf
+*.ini
+*.LOG*
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Searches/
+Saved Games/
+3D Objects/
+.vscode/
+.afirma/
+.dotnet/
+.m2/
+.nbi/
+.viminfo
+OneDrive/
+Proton Drive/
